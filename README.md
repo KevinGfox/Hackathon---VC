@@ -1,4 +1,4 @@
-<img src='src/vestiaireco.png' width="50" height="40">
+<img src='src/vestiaireco.png' width="500" height="200">
 
 Hachathon organisé par Jedha Bootcamp & Vestaire collective
 
